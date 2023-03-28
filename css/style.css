@@ -1,0 +1,16 @@
+body > header > nav > div > a.navbar-brand.logo-color.fs-5{
+color: #c62c45;
+}
+.background {
+    background-image: url("../img/header-bg.jpg");
+    background-size: cover;
+
+}
+.overlay{
+    background: rgba(0,0,0,0.75) !important;
+    background-image: url("../img/header-bg.jpg") !important;
+    background-blend-mode: darken ;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
